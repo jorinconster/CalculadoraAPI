@@ -83,7 +83,7 @@ def checkout(){
                 submoduleCfg: [], 
                 userRemoteConfigs: [[
                     credentialsId: 'github_personal', 
-                    url: 'https://github.com/JULIANCHO923/CalculadoraAPI'
+                    url: 'https://github.com/jorinconster/CalculadoraAPI.git'
                 ]]
             ])
 }
